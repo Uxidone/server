@@ -12,7 +12,7 @@ op:
       essentials.joinfullserver: false
       essentials.keepinv: false
       essentials.keepxp: false
-      essentials.kick.exempt: false
+      essentials.kick.exempt: true
       essentials.kill.exempt: false
       essentials.list.hidden: false
       essentials.mute.exempt: false
